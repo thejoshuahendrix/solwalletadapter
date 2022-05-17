@@ -1,3 +1,14 @@
-<a href="https://serpent.academy">by Serpent Academy</a>
-<p>Send SOL with Wallet Adapter in a Menu to any solana wallet with React and Web Hooks</p>
-<img src="/screenshot.png">
+# Sol Wallet Adapter
+
+This is a starter React project configured with react-app-rewired to work with solana-wallet-adapter
+
+
+## Installation
+
+`npm install`
+
+
+## Usage
+
+`npm start`
+
